@@ -1,0 +1,6 @@
+{
+  "name": "Actions ~ Transformations",
+  "tagline": "",
+  "body": "What defines an action like “kicking ball”? We argue that the true meaning of an action lies in the change or transformation an action brings to the environment. In this paper, we propose a novel representation for actions by modeling action as a transformation which changes the state of the environment before the action happens (pre- condition) to the state after the action (effect). Motivated by the recent advancement of video representation using deep learning, we design a Siamese network which mod- els the action as the transformation on a high-level fea- ture space. We show that our model gives improvements on standard action recognition datasets including UCF101 and HMDB51. More importantly, our approach is able to generalize beyond learned action categories and shows sig- nificant performance improvement on cross-category gen- eralization on our new ACT dataset.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
